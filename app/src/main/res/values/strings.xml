@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Word Search</string>
+    <string name="event_word_grid_generated">WordGridGenerated</string>
+    <string name="time_remaining_text">Time Remaining: %.2f</string>
+    <string name="buy_hint_text">Buy Hint</string>
+    <string name="watch_ad_text">Watch Ad</string>
+    <string name="coins_text">Coins: %d</string>
+    <string name="event_rewarded_ad_dismissed">RewardedAdDismissed</string>
+    <string name="event_rewarded_ad_failed">RewardedAdFailed</string>
+    <string name="event_rewarded_ad_loaded">RewardedAdLoaded</string>
+    <string name="result_earned_coins_text">You earned %d coins!</string>
+    <string name="result_next_button_text">Next</string>
+    <string name="start_game_text">Start</string>
+    <string name="stop_game_text">Stop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ad_loading_please_wait_text">Ad loading, please wait...</string>
+</resources>
